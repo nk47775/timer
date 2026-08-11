@@ -1,2 +1,1 @@
-# timer
-Countdown timer
+python timer.py
